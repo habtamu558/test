@@ -19,5 +19,8 @@ public class Main {
         System.out.println("Username is: " + userName);
 
 
+
+        System.out.println(userName.toUpperCase());
+        System.out.println(userName.toLowerCase());
     }
     }
